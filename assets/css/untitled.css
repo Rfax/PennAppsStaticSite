@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -72px;
+}
+
+.footer, .push {
+  height: 72px;
+}
+
+a:active, a:focus, a:hover {
+  color: #000845;
+}
+
+a {
+  color: #54b9e4;
+}
+
